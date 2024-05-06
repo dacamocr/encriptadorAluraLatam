@@ -1,6 +1,30 @@
+
+.cajaEncabezado{
+width: 1190px;
+position: relative;
+margin: 0 auto;
+}
+
 body{
     background: #F3F5FC;
 }
-h1{
+.principalTitle{
     text-align: center;
+}
+.logo{
+    width: 120px;
+    height: 48px;
+    
+}
+.izquierda{
+    display: inline-block;
+}
+.derecha{
+    display: inline-block;
+    text-align: right;
+    margin-left: 40%;
+}
+.sinTextoImage{
+width: 336px;
+height: 304px;
 }
